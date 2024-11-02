@@ -7,10 +7,6 @@
 
 - 💬 Ask me about **Competitive Programming and Problem Solving👾**
 
-- 📫 How to reach me **karanhm2005@gmail.com**
-
-- ⚡ Fun fact **I am a DEVELOPER!!! Indeed**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karanhm2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanhm2005" height="30" width="40" /></a>
