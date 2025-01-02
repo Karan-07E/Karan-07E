@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan M</h1>
-<h3 align="center">A Software Developer Enthusaist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-07e&label=Profile%20views&color=0e75b6&style=flat" alt="karan-07e" /> </p>
 
-- 🌱 I’m currently learning **DSA and Cloud**
+- 🌱 I’m currently learning **DSA and Cloud and more**
 
 - 💬 Ask me about **Competitive Programming and Problem Solving👾**
 
