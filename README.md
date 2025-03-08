@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DSA and Cloud and more**
 
-- 💬 Ask me about **Competitive Programming and Problem Solving👾**
+- 💬 Ask me about **Competitive Programming and Problem Solving👾, Linux, and Dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
