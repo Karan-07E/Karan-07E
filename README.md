@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan M</h1>
-<p align="center">A Passionate Software Development And Cloud Enthusiast</p>
+<p align="center">A Passionate Developer And Cloud Enthusiast</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-07e&label=Profile%20views&color=0e75b6&style=flat" alt="karan-07e" /> </p>
 
 - 🌱 I’m currently learning **DSA and Cloud and more**
