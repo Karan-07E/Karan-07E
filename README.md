@@ -28,8 +28,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40" height="40" onclick="window.open('https://developer.mozilla.org/en-US/docs/Web/CSS', '_blank')" style="cursor: pointer;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40" onclick="window.open('https://developer.mozilla.org/en-US/docs/Web/JavaScript', '_blank')" style="cursor: pointer;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40" onclick="window.open('https://www.python.org/', '_blank')" style="cursor: pointer;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="Android Studio Logo" width="40" height="40" onclick="window.open('https://developer.android.com/studio', '_blank')" style="cursor: pointer;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Eclipse-Logo.svg" alt="Eclipse IDE Logo" width="40" height="40" onclick="window.open('https://www.eclipse.org/', '_blank')" style="cursor: pointer;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="Android Studio Logo" width="40" height="40" onclick="window.open('https://developer.android.com/studio', '_blank')" style="cursor: pointer;">&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-eclipse-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2944844.png?f=webp&w=512" alt="Eclipse IDE Logo" width="40" height="40" onclick="window.open('https://www.eclipse.org/', '_blank')" style="cursor: pointer;">
 </div>
 
 <h3 align="left">🤝 Connect With Me : </h3>
