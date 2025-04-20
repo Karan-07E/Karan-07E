@@ -4,7 +4,7 @@
   
 <a href="https://github.com/404"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile" align="center"></a>  
   
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="animation here" width="400" height="300" align="right">
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="animation here" width="400" height="300" align="right"><br>
 <h3 align="left">👨🏻‍💻 About me :</h3>
 <div align="left">
   <p>&nbsp;&nbsp;&nbsp;&nbsp;👾 Currently Working on <b>Web Applications</b></p>
