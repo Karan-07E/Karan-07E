@@ -62,15 +62,15 @@
 <h3 align="left">🤝 Connect With Me : </h3>
 <div align="left">
   <a href="https://linkedin.com/in/karanm7" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461541.png?f=webp&w=512" width="50" height="45" alt="LinkedIn Logo">
   </a>
   <a href="www.discord.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord Logo">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-logo-icon-download-in-svg-png-gif-file-formats--social-media-forum-apps-pack-logos-icons-8461533.png?f=webp&w=512" width="50" height="45" alt="Discord Logo">
   </a>
   <a href="www.youtube.com/@Speed_gaming7777" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube Logo">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--yt-social-media-apps-pack-logos-icons-8461555.png?f=webp&w=512" width="50" height="45" alt="YouTube Logo">
   </a>
   <a href="https://www.instagram.com/karan_m2005/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram Logo">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461537.png?f=webp&w=512" width="50" height="45" alt="Instagram Logo">
   </a>
 </div>
