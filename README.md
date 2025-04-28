@@ -64,10 +64,10 @@
   <a href="https://linkedin.com/in/karanm7" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461541.png?f=webp&w=512" width="50" height="45" alt="LinkedIn Logo">
   </a>
-  <a href="www.discord.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.discord.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-logo-icon-download-in-svg-png-gif-file-formats--social-media-forum-apps-pack-logos-icons-8461533.png?f=webp&w=512" width="50" height="45" alt="Discord Logo">
   </a>
-  <a href="www.youtube.com/%40Speed_gaming7777" target="_blank" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@Speed_gaming7777" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--yt-social-media-apps-pack-logos-icons-8461555.png?f=webp&w=512" width="50" height="45" alt="YouTube Logo">
   </a>
   <a href="https://www.instagram.com/karan_m2005/" target="_blank" style="text-decoration: none;">
