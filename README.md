@@ -72,5 +72,5 @@
   </a>
   <a href="https://www.instagram.com/karan_m2005/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461537.png?f=webp&w=512" width="50" height="45" alt="Instagram Logo">
-  </a>
+  </a> 
 </div>
