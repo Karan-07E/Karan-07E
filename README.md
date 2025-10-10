@@ -57,6 +57,24 @@
   <a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-eclipse-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2944844.png?f=webp&w=512" alt="Eclipse IDE Logo" width="40" height="40">
   </a>
+  <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" alt="Nextjs" width="40" height="40">
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40">
+  </a>
+  <a href="https://typescriptlang.org" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40">
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" style="text-decoration: none;">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgresql" width="40" height="40">
+  </a>
+  <a href="https://reddis.io" target="_blank" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="40" height="40">
+  </a>
+  <a href="https://vite.dev" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png" alt="Vite" width="40" height="40">
+  </a>
 </div>
 
 <h3 align="left">🤝 Connect With Me : </h3>
