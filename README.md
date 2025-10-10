@@ -57,6 +57,7 @@
   <a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-eclipse-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2944844.png?f=webp&w=512" alt="Eclipse IDE Logo" width="40" height="40">
   </a>
+  <br>
   <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
     <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" alt="Nextjs" width="40" height="40">
   </a>
