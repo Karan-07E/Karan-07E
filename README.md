@@ -59,7 +59,7 @@
   </a>
   <br>
   <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" alt="Nextjs" width="40" height="40">
+    <img src="https://miro.medium.com/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="Nextjs" width="40" height="40">
   </a>
   <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40">
