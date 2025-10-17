@@ -36,7 +36,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="40" height="40">
   </a>
   <br>
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; padding: 4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
