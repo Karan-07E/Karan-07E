@@ -80,7 +80,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Vite" width="40" height="40">
   </a>
   <a href="https://jenkins.io" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" alt="Vite" width="40" height="40">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png)" alt="jenkins" width="40" height="40">
   </a>
 </div>
 
