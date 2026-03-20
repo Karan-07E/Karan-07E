@@ -1,6 +1,6 @@
 <h1 align="center"><b>🚀 Welcome to my Github Profile 🚀</b></h1>
 <h2 align="center">Hi 👋, I'm Karan M</h2>
-<h3 align="center">A passionate developer exploring technologies and creating impactful solutions. </h3>
+<h3 align="center">A passionate developer exploring technologies and creating impactful and Scalable solutions. </h3>
   
 <a href="https://github.com/404"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile" align="center"></a>  
   
@@ -95,7 +95,7 @@
   <a href="https://www.youtube.com/@Speed_gaming7777" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--yt-social-media-apps-pack-logos-icons-8461555.png?f=webp&w=512" width="50" height="45" alt="YouTube Logo">
   </a>
-  <a href="https://www.instagram.com/karan_m2005/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/karanm_777/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461537.png?f=webp&w=512" width="50" height="45" alt="Instagram Logo">
   </a> 
 </div>
