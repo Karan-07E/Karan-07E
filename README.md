@@ -12,7 +12,7 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;🌿 Mastering <b>Data Structures and Algorithms</b></p>
 </div>
 
-<h3 align="left">🛠️ Skills and Tools : </h3>
+<h3 align="left">🛠️ My TechStack and Tools : </h3>
 <div align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40" height="40">
@@ -22,15 +22,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" width="40" height="40">
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="40" height="40">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git Logo" width="40" height="40">
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="40" height="40">
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="40" height="40">
@@ -50,12 +41,6 @@
   </a>
   <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40">
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" style="text-decoration: none;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="Android Studio Logo" width="40" height="40">
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-eclipse-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2944844.png?f=webp&w=512" alt="Eclipse IDE Logo" width="40" height="40">
   </a>
   <br>
   <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
@@ -78,9 +63,6 @@
   </a>
   <a href="https://www.docker.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Vite" width="40" height="40">
-  </a>
-  <a href="https://jenkins.io" target="_blank" style="text-decoration: none;">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png)" alt="jenkins" width="40" height="40">
   </a>
 </div>
 
