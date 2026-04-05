@@ -1,5 +1,5 @@
 <h1 align="center"><b>🚀 Welcome to my Github Profile 🚀</b></h1>
-<h2 align="center">Hi 👋, I'm Karan M</h2>
+<h2 align="center">Hi 👋, I'm Karan M</h2> 
 <h3 align="center">A passionate developer exploring technologies and creating impactful and Scalable solutions. </h3>
   
 <a href="https://github.com/404"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile" align="center"></a>  
