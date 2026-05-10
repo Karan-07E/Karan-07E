@@ -1,83 +1,75 @@
-<h1 align="center"><b>🚀 Welcome to my Github Profile 🚀</b></h1>
-<h2 align="center">Hi 👋, I'm Karan M</h2> 
-<h3 align="center">A passionate developer exploring technologies and creating impactful and Scalable solutions. </h3>
-  
-<a href="https://github.com/404"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile" align="center"></a>  
-  
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="animation here" width="400" height="300" align="right"><br>
-<h3 align="left">👨🏻‍💻 About me :</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀%20Welcome%20to%20my%20Github%20Profile%20🚀-0D1117?style=for-the-badge&logoColor=white" width="600"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Building%20Impactful%20%26%20Scalable%20Solutions-6E56F7?style=for-the-badge&logoColor=white" width="500"/>
+</div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M;A+Passionate+Developer+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F;DSA+Enthusiast+%F0%9F%8C%BF" alt="Typing SVG" />
+</h2>
+
+<a href="https://github.com/404">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile" width="100%">
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="animation" width="380" align="right"/>
+
+<h3 align="left">👨🏻‍💻 About Me :</h3>
+
 <div align="left">
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;👾 Currently Working on <b>Web Applications</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;👾 Currently Building Scalable <b>AI SaaS Applications</b></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;☁️ Exploring <b>Cloud Technologies</b></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;🌿 Mastering <b>Data Structures and Algorithms</b></p>
 </div>
 
-<h3 align="left">🛠️ My TechStack and Tools : </h3>
-<div align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40" height="40">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40">
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="40" height="40">
-  </a>
-  <br>
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; padding: 4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40">
-  </a>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40">
-  </a>
-  <br>
-  <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
-    <img src="https://miro.medium.com/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="Nextjs" width="40" height="40">
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40">
-  </a>
-  <a href="https://typescriptlang.org" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="text-decoration: none;">
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgresql" width="40" height="40">
-  </a>
-  <a href="https://reddis.io" target="_blank" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="40" height="40">
-  </a>
-  <a href="https://vite.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png" alt="Vite" width="40" height="40">
-  </a>
-  <a href="https://www.docker.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Vite" width="40" height="40">
-  </a>
+<br clear="right"/>
+
+<div align="center">
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" />
+
+<br/>
+
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" />
+
+<br/>
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark" />
+
+<br/>
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" />
+
 </div>
 
-<h3 align="left">🤝 Connect With Me : </h3>
-<div align="left">
-  <a href="https://linkedin.com/in/karanm7" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461541.png?f=webp&w=512" width="50" height="45" alt="LinkedIn Logo">
-  </a>
-  <a href="https://www.discord.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-logo-icon-download-in-svg-png-gif-file-formats--social-media-forum-apps-pack-logos-icons-8461533.png?f=webp&w=512" width="50" height="45" alt="Discord Logo">
-  </a>
-  <a href="https://www.youtube.com/@Speed_gaming7777" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--yt-social-media-apps-pack-logos-icons-8461555.png?f=webp&w=512" width="50" height="45" alt="YouTube Logo">
-  </a>
-  <a href="https://www.instagram.com/karanm_777/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-apps-pack-logos-icons-8461537.png?f=webp&w=512" width="50" height="45" alt="Instagram Logo">
-  </a> 
+---
+
+<div align="center">
+<h3>🤝 Connect With Me :</h3>
+
+<a href="https://linkedin.com/in/karanm7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://www.discord.com" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://www.youtube.com/@Speed_gaming7777" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/karanm_777/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56F7,100:00BFFF&height=120&section=footer" width="100%"/>
 </div>
