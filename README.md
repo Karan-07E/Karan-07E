@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M;A+Passionate+Developer+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F;DSA+Enthusiast+%F0%9F%8C%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M;A+Passionate+Software+Developer+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%8C%BF" alt="Typing SVG" />
 </h2>
 
 <a href="https://github.com/404">
@@ -36,7 +36,7 @@
 <br/>
 
 ### 🌐 Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite&theme=dark" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 <br/>
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,nginx&theme=dark" />
 
 </div>
 
